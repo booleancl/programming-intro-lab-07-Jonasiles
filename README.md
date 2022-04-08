@@ -11,3 +11,7 @@ Los diccionarios al igual que las listas son listados de valores, pero que se ac
 
 ## Misión
 Cuando termines el laboratorio agrega un link al repositorio.
+
+## Misión
+Cuando termines l laboratorio agrega un link al repositorio
+[misión cumplida](https://github.com/Jonasiles/lists_and_dicts)
